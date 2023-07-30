@@ -1,6 +1,6 @@
 # Privacy Policy
 
-وحده نظم المعلومات  takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
+وحده نظم المعلومات  This application is used by employees in Iraq, you can only register through us
 
 
 ## Collection of Routine Information
