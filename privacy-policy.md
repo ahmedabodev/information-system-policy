@@ -6,6 +6,8 @@
 ## Collection of Routine Information
 
 This app doens't track basic information about their users.
+##   our website  link 
+http://smw-gov.com
 
 ##  applcaiton policies
 The application can be entered through an email and a password through us, and the user can add a new name and data, and he can modify or delete them, and he can search through qr code or  search screen
