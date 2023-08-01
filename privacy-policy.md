@@ -10,7 +10,7 @@ This app doens't track basic information about their users.
 http://smw-gov.com
 
 ##  applcaiton policies
-The application can be entered through an email and a password through us, and the user can add a new name and data, and he can modify or delete them, and he can search through qr code or  search screen
+The application can be entered through an email and a password through us, and the user can add a new name and data, and he can modify or delete them, and he can search through qr code or  search screen and no one can use this app  just employee can used   we gave him a password and email to  used app to app information  
 
 
 ## Cookies
